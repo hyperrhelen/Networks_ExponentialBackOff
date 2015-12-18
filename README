@@ -1,0 +1,11 @@
+Exponential Backoff vs Linear Backoff
+---------
+In order to run the simulation:
+  - Run in Python 3.x
+  - Install simpy
+
+This project was written for a networks class that runs a simulation that
+compares linear backoff with exponential backoff.
+
+
+Written by: Helen Chac & Nathan Truong
